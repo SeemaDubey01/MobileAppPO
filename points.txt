@@ -1,0 +1,17 @@
+data on google drive
+teacher - student mapping
+attendance details
+hindi support
+4500-5000 person data
+metrics for students
+scale for teacher
+training deetails/feedback
+analytics to check how long a kid is taking to reach next level
+quarterly data update
+processing time is longer for entering
+all teacher has smart phones
+
+
+solution
+android app
+import for first data load
